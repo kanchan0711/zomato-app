@@ -1,0 +1,14 @@
+.slider{
+        background: "white";
+        border-radius :50%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 4px;
+
+        /* border
+        display: "flex",
+        justifyContent: "center",
+        alignItems: "center",
+        padding: "4px",   */
+}

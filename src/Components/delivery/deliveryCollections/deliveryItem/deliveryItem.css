@@ -1,0 +1,19 @@
+.delivery-item-background{
+    padding: 1rem 0px;
+    background: rgb(248, 248, 248);
+}
+
+.delivery-item-img{
+    object-fit: cover;
+    width: 80%;
+    border-radius: 50%;
+  }
+
+.delivery-item-title{
+    font-size: 20px;
+    font-weight: 500;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    margin-top: 6px;
+    margin-left: 42px;
+}
